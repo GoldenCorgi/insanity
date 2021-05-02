@@ -4,7 +4,7 @@ ever thought:
 
 _when my body do collapse by the age of 30, i sure hope i made some remarkable achievements to show to all my friends and hope they'll be proud of me but they already left me because i dont have time left to hang out with them_
 
-
+i finally lost it
 <br />
 <br />
 
@@ -73,6 +73,9 @@ _when my body do collapse by the age of 30, i sure hope i made some remarkable a
 </ol>
 </details>
 
+## About The Project
+### Motivation
+```i want to die```
 
 ## 2019-03 Shopee NDSC 2019
 **Notes:** did this using a friend's university account since i wasn't matriculated yet
